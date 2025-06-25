@@ -1,2 +1,2 @@
 # machine-learning-morphology-analysis
-Repository containing the various machine learning algorithms used for the morphological analysis presented in Deger &amp; Faisst (2025, in prep)
+Repository containing a subset of the machine learning models used in the morphological analysis presented in Deger &amp; Faisst (2025, in prep)
